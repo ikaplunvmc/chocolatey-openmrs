@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>tomcat</id>
+    <version>6.0.29</version>
+    <authors>Ilya Kaplun</authors>
+    <owners>Ilya Kaplun</owners>
+    <licenseUrl>http://license_url</licenseUrl>
+    <projectUrl>http://project_url</projectUrl>
+    <iconUrl>http://icon_url</iconUrl>
+    <requireLicenseAcceptance>true|false</requireLicenseAcceptance>
+    <description>package_description</description>
+    <releaseNotes>summary_of_changes</releaseNotes>
+    <copyright>Copyright year</copyright>
+    <tags>tags</tags>
+    <dependencies>
+      <dependency id="sample_dependency" version="1.0" />
+    </dependencies>
+  </metadata>
+</package>
